@@ -1,0 +1,129 @@
+.bg-primary {
+    background-color: #00bd2c!important;
+  }
+
+.bg-color-grey {
+  background: #FFC url(/webb.png) repeat;
+}
+
+.op-80 {
+  opacity: 0.8;
+}
+
+.links {
+  color: #363636;
+  text-decoration: none;
+  font-weight: bold;
+}
+.links:hover {
+  color: #fff;
+}
+
+.block1 {
+  display: inline-block;
+  position: absolute;
+  float: right;
+  width: 85%;
+  height: fit-content;
+  margin-top: auto;
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  margin-top: 50px;
+  color: #363636;
+  background-color: #00bd2c;
+  font-family: 'Courier New', monospace;
+  font-size: 100%;
+  font-weight: 500;
+  box-shadow: 10px 10px;
+}
+
+.block2 {
+  display:block;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  float: bottom;
+  width: 100%;
+  height: fit-content;
+  margin-top: 100px;
+  margin-bottom: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 30px;
+  margin-top: 500px;
+  color: #363636;
+  background-color: #00bd2c;
+  font-family: 'Courier New', monospace;
+  font-size: 20px;
+  font-weight: 500;
+
+}
+
+.side-block {
+  display: inline-block;
+  grid-area: menu;
+  width: fit-content;
+  height: fit-content;
+  margin-left: 20px;
+  margin-top: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  color: #363636;
+  background-color: #00bd2c;
+  box-shadow: 5px 5px;
+  border-radius: 0px 20px;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #363636;
+  border-color: #363636;
+  border-radius: 24px 24px;
+}
+
+.no-margin {
+    margin-bottom: 0;
+}
+
+.header-font {
+    font-family: 'Courier New', monospace;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.nav-font {
+    font-family: 'Courier New', monospace;
+    font-size: 25px;
+    font-weight: 400;
+}
+.color1 {
+    color: #363636;
+}
+
+.blockdis {
+  display: block;
+}
+.nav-link {
+    padding-left: 200;
+    display: block;
+    padding: 0.5rem 5rem;
+    color: #363636;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .35s ease-in-out,border-color .15s ease-in-out;
+  }
+.nav-link:hover {
+    color: #5de38c;
+    background-color: #363636;
+    font-weight: 550;
+}
